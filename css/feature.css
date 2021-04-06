@@ -35,7 +35,7 @@
     display: inline-block;
 }
 .quote{
-    width: 1200px;
+    width: 100px;
     height:100%;
     display: flex;
     flex-wrap: wrap;
